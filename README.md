@@ -1,2 +1,4 @@
-# ASP-.NET-MVC-Movie-App
-My first web application: an ASP .NET MVC Movie app with CRUD operations and integration with themoviedb.org API.
+# Sample MVC MovieApp
+
+* Sample ASP .NET MVC Movie App working like a primitive version of IMDB.
+* Built with C#, ASP .NET MVC, .NET Framework, MS SQL Server, jQuery, AJAX, HTML5, CSS and Bootstrap.
